@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+#titulo{
+    text-align: center;
+    margin-bottom: 66px;
+}
+.amarillo{
+    display: flex;
+    height: 260px;
+    background-color: yellow;
+    justify-content: space-between;
+    margin: 0 10px;
+
+}
+.verde {
+    display: flex;
+    justify-content: space-between;
+    height: 260px;
+    background-color: green;
+    margin: 0 10px
+}
+.negro {
+    display: flex;
+    height: 260px;
+    background-color: black;
+    margin: 0 10px;
+    justify-content: space-between;
+}
+.azul {
+    height: 60px;
+    background-color: blueviolet;
+    color: aliceblue;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0 10px;
+}
+.block{
+    display: inline-block;
+    width: 200px;
+    background-repeat: no-repeat;
+    margin: 30px 25px 30px 30px;
+    background-position: center;
+}
+#saul{
+    background-image: url(../img/saul.gif);
+    height: 200px
+}
+#neco{
+    background-image: url(../img/neco-arc-saul-goodman3d.gif);
+    height: 200px;
+}
+#team{
+    background-image: url(../img/3d-better-call-saul.gif);
+    height: 200px;
+}
+#freddy{
+    background-image: url(../img/freddy.gif);
+    height: 200px;
+}
+#myke{
+    background-image: url(../img/kid-named-finger-better-call-saul.gif);
+    height: 200px;
+}
+#cirno{
+    background-image: url(../img/image0.gif);
+    height: 200px;
+}
+#west{
+    background-image: url(../img/stare-dont-blink.gif);
+    height: 200px;
+}
+.block2{
+    display: inline-block;
+    width: 250px;
+    background-repeat: no-repeat;
+    margin: 5px 100px 5px 100px;
+    background-position: center;
+}
+#ozelot{
+    background-image: url(../img/ozelot.jpg);
+    height: 250px;
+}
+#solitario{
+    background-image: url(../img/todo.jpg);
+    height: 250px;
+}
+#mago{
+    background-image: url(../img/mago.jpg);
+    height: 250px;
+}
+#solitario2{
+    background-image: url(../img/antepenultima.jpg);
+    height: 250px;
+}
+.block3{
+    display: inline-block;
+    width: 200px;
+    background-repeat: no-repeat;
+    margin: 30px 25px 30px 30px;
+    background-position: center;
+}
+#shirohige{
+    background-image: url(../img/shirohige2.jpg);
+    background-position: top;
+}
+#beato{
+    background-image: url(../img/beato.jpg);
+    background-position: left;
+}
+#kuma{
+    background-image: url(../img/kuma.webp);
+    background-position: center;
+    background-size: cover;
+}
+#guts{
+    background-image: url(../img/guts.jpg);
+}
+#ougi{
+    background-image: url(../img/ougi.jpg);
+}
+#mari{
+    background-image: url(../img/mari.jpg);
+}
+#hyung{
+    background-image: url(../img/hyungsuk.jpg);
+    background-size: cover;
+}
